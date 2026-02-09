@@ -12,6 +12,7 @@ def hello():
         <li><a href="/calc/3/5">/calc/3/5</a></li>
         <li><a href="/reverse/hello">/reverse/hello</a></li>
         <li><a href="/user/Anna/25">/user/Anna/25</a></li>
+        <li><a href="/user/John/30">/user/John/30</a></li>
     </ul>
     """
 
